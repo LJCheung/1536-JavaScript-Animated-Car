@@ -1,4 +1,4 @@
-# 1536-JavaScript-Animated-Car
+# JavaScript-Animated-Car
 
 Implemented with HTML, CSS, JavaScript
 
